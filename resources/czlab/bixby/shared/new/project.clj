@@ -10,7 +10,7 @@
   :dependencies [[io.czlab/bixby "2.2.0"]]
 
   :plugins [[cider/cider-nrepl "0.50.2" :exclusions [nrepl/nrepl]]
-            [lein-bixby-libjars "2.2.0"]
+            [lein-libjars "2.2.0"]
             [lein-codox "0.10.8"]
             [lein-cljsbuild "1.1.8"]]
 
